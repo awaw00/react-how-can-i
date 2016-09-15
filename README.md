@@ -1,7 +1,7 @@
 # react-how-can-i
 Ask me anything about react here!
 
-在这里，你可以提出任何React相关的问题，我将会使用我的业余时间尽可能地解答你的问题。
+你可以在[issues](https://github.com/awaw00/react-how-can-i/issues/new)里提出任何React相关的问题，我将会使用我的业余时间尽可能地解答你的问题。
 在开始提问之前，还请注意一下几点：
 
 1. 提出的问题请围绕React这个主题，可以是React技术栈相关的问题（比如react-router、redux）等。
